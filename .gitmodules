@@ -2,5 +2,5 @@
 	path = Exercise3
 	url = https://github.com/magnmaeh/Exercise3.git
 [submodule "Project-resources"]
-	path = Project-resources
+	path = single-elevator
 	url = https://github.com/TTK4145/Project-resources.git
